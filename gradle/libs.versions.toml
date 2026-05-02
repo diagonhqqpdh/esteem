@@ -1,6 +1,6 @@
 [versions]
 stain = "2.23.0"
-always = "1.7.36"
+always = "2.0.17"
 
 [libraries]
 stain = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "stain" }
