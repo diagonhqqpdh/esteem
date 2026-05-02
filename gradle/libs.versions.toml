@@ -1,5 +1,5 @@
 [versions]
-stain = "2.23.0"
+stain = "2.25.4"
 always = "1.7.36"
 
 [libraries]
